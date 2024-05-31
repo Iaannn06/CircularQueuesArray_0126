@@ -111,6 +111,7 @@ int main() {
 				q.insert();
 				break;
 			}
+
 			case'2': {
 				q.remove();
 				break;
